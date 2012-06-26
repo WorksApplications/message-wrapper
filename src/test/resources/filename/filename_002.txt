@@ -1,0 +1,18 @@
+Content-Type: multipart/mixed; boundary="------_4DD33E1F00000000F4BB_MULTIPART_MIXED_"
+Content-Transfer-Encoding: 7bit
+Status: U
+
+--------_4DD33E1F00000000F4BB_MULTIPART_MIXED_
+Content-Type: text/plain; charset="ISO-2022-JP"
+Content-Transfer-Encoding: quoted-printable
+
+=1B$B2h%F%9%H=1B(B.svg
+
+--------_4DD33E1F00000000F4BB_MULTIPART_MIXED_
+Content-Type: application/octet-stream;
+ name*=iso-2022-jp''%1B%24BIA2h%1B%28B%2Esvg
+Content-Disposition: attachment;
+ filename*=iso-2022-jp''%1B%24B2h%25F%259%25H%1B%28B.svg
+Content-Transfer-Encoding: base64
+
+--------_4DD33E1F00000000F4BB_MULTIPART_MIXED_--

@@ -1,0 +1,4 @@
+From: =?UTF-8?Q?Test a special character =E3=83=BC?=
+ <dummy@mail.com>
+Reply-To: =?UTF-8?Q?Test a special character =E3=83=9A?=
+ <dummy@mail.com>

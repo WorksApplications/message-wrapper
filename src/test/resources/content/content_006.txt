@@ -1,0 +1,5 @@
+Content-Transfer-Encoding: base64
+Content-Type: text/plain;
+	charset=cp932
+
+g2WDWINngsWCtw==

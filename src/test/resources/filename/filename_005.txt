@@ -1,0 +1,17 @@
+Content-Type: multipart/mixed; boundary="RnJpLCAyOSBKdWwgMjAxMSAwOToyOTowMCArMDkwMA=="
+Content-Transfer-Encoding: 7bit
+
+--RnJpLCAyOSBKdWwgMjAxMSAwOToyOTowMCArMDkwMA==
+Content-Type: text/plain; charset=ISO-2022-JP
+
+--RnJpLCAyOSBKdWwgMjAxMSAwOToyOTowMCArMDkwMA==
+Content-Type: application/octet-stream;
+ name="1234_=?ISO-2022-JP?B?GyRCO0U7dkZiTUYzTkcnJTchPCVIGyhC?=
+ (=?ISO-2022-JP?B?GyRCTG44fSEhOUAwbBsoQg==?=
+ ).xls"
+Content-Disposition: attachment;
+ filename="1234_=?ISO-2022-JP?B?VGVzdCBmaWxlIG5hbWUueGxz?="
+Content-Transfer-Encoding: base64
+
+--RnJpLCAyOSBKdWwgMjAxMSAwOToyOTowMCArMDkwMA==--
+

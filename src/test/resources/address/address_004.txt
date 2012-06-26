@@ -1,0 +1,2 @@
+To: =?ISO-2022-JP?B?GyRCJUYlOSVIGyhC?= <dummy@mail.com>,
+        <dummy@mail.com>

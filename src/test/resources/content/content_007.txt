@@ -1,0 +1,13 @@
+Content-Type: multipart/mixed;
+ boundary="------------080907060209050000020904"
+Status: RO
+
+This is a multi-part message in MIME format.
+--------------080907060209050000020904
+Content-Type: text/plain; charset=ISO-2022-JP
+Content-Transfer-Encoding: 7bit
+
+$B!&yu$5$s(B
+$B!&|b$5$s(B
+
+--------------080907060209050000020904--

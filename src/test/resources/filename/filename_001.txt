@@ -1,0 +1,16 @@
+Content-Type: multipart/mixed; boundary="----=_Part_1_6220572.1294738944188"
+Content-Transfer-Encoding: 7bit
+
+------=_Part_1_6220572.1294738944188
+Content-Type: text/plain; charset=ISO-2022-JP
+Content-Transfer-Encoding: 7bit
+
+
+------=_Part_1_6220572.1294738944188
+Content-Type: application/ods
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; 
+	filename="=?ISO-2022-JP?Q?file%test=1B$B!Z=1B(Bspecial character=1B$B-6![=1B(B.ods?="
+
+------=_Part_1_6220572.1294738944188--
+

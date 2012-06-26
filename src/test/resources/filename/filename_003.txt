@@ -1,0 +1,28 @@
+Content-Type: multipart/mixed; boundary="------_4DD484FC000000009149_MULTIPART_MIXED_"
+Content-Transfer-Encoding: 7bit
+Status: U
+
+--------_4DD484FC000000009149_MULTIPART_MIXED_
+Content-Type: text/plain; charset="ISO-2022-JP"
+Content-Transfer-Encoding: quoted-printable
+
+
+--------_4DD484FC000000009149_MULTIPART_MIXED_
+Content-Type: application/octet-stream;
+ name*0*=iso-2022-jp''%1B%24%42%25%46%25%39%25%48%2D%21%2D%22%2D%23%2D%24;
+ name*1*=%2D%25%2D%26%2D%27%2D%28%2D%29%1B%28%42test%1B%24%42%2D%35;
+ name*2*=%2D%36%2D%37%2D%38%2D%39%2D%3A%2D%3B%2D%3C%2D%3D%1B%28%42;
+ name*3*=test%1B%24%42%7C%62%7C%4E%79%60%79%7E%79%75%79%2C%79%7C%7A;
+ name*4*=%7C%7B%26%7B%7D%25%46%25%39%25%48%2D%6A%1B%28%42;
+ name*5*=%2Etxt
+Content-Disposition: attachment;
+ filename*0*=iso-2022-jp''%1B%24%42%25%46%25%39%25%48%2D%21%2D%22%2D%23%2D%24;
+ filename*1*=%2D%25%2D%26%2D%27%2D%28%2D%29%1B%28%42test%1B%24%42%2D%35;
+ filename*2*=%2D%36%2D%37%2D%38%2D%39%2D%3A%2D%3B%2D%3C%2D%3D%1B%28%42;
+ filename*3*=test%1B%24%42%7C%62%7C%4E%79%60%79%7E%79%75%79%2C%79%7C%7A;
+ filename*4*=%7C%7B%26%7B%7D%25%46%25%39%25%48%2D%6A%1B%28%42;
+ filename*5*=%2Etxt
+Content-Transfer-Encoding: base64
+
+
+--------_4DD484FC000000009149_MULTIPART_MIXED_--

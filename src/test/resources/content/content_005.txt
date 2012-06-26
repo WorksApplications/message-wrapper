@@ -1,0 +1,16 @@
+Content-Type: multipart/mixed;
+boundary="_31873e28-8c77-487d-998c-6681d327e75f_"
+
+--_31873e28-8c77-487d-998c-6681d327e75f_
+Content-Type: multipart/alternative;
+boundary="_1f3a7eb6-3718-4597-8ea9-1f5bd2606f9a_"
+
+--_1f3a7eb6-3718-4597-8ea9-1f5bd2606f9a_
+Content-Type: text/plain; charset="gb2312"
+Content-Transfer-Encoding: 8bit
+
+¤ªÆ£¤ì˜”¤Ç¤¹¡£¥Æ¥¹¥È¤Ç¤¹.
+
+¤è¤í¤·¤¯¤ªîŠ¤¤¤¤¤¿¤·¤Þ¤¹¡£
+
+--_1f3a7eb6-3718-4597-8ea9-1f5bd2606f9a_

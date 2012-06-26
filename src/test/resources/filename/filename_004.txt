@@ -1,0 +1,17 @@
+Content-Type: multipart/mixed;
+    boundary="--_CKP_IW7TkQH2aItQ2"
+Subject: =?ISO-2022-JP?B?W3Rlc3Q6MTIzNF0gGyRCIVobKEJURVNUGyRCJUYlOSVIGyhC?=
+    =?ISO-2022-JP?B?GyRCJUYlOSVIIVslRiU5JUghJiVGJTklSBsoQg==?=
+
+----_CKP_IW7TkQH2aItQ2
+Content-Type: text/plain; charset="ISO-2022-JP"
+Content-Disposition: inline
+Content-Transfer-Encoding: 7bit
+
+----_CKP_IW7TkQH2aItQ2
+Content-Type: application/octet-stream; name="テストファイル.xls"
+Content-Disposition: attachment; filename="テストファイル.xls"
+Content-Transfer-Encoding: base64
+
+----_CKP_IW7TkQH2aItQ2--
+

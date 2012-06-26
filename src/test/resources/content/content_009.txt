@@ -1,0 +1,5 @@
+Content-Type: text/plain; charset=Shift_JIS
+Content-Transfer-Encoding: Base64
+Status: U
+
+gVyBfIFggWKBYQ0KgV0tfnw=
