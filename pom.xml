@@ -26,6 +26,10 @@
 			<distribution>manual</distribution>
 		</license>
 	</licenses>
+	<organization>
+		<name>Works Applications. Co.,Ltd.</name>
+		<url>http://dev.worksap.co.jp/</url>
+	</organization>
 	<dependencies>
 		<dependency>
 			<groupId>javax.mail</groupId>
