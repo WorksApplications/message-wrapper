@@ -19,6 +19,13 @@
 			</plugin>
 		</plugins>
 	</build>
+	<licenses>
+		<license>
+			<name>The MIT License</name>
+			<url>LICENSE.txt</url>
+			<distribution>manual</distribution>
+		</license>
+	</licenses>
 	<dependencies>
 		<dependency>
 			<groupId>javax.mail</groupId>
